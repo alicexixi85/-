@@ -9,7 +9,7 @@
 ## 获取完整代码
 
 ```bash
-git clone --recurse-submodules https://github.com/alicechendejun-pixel/-.git
+git clone --recurse-submodules https://github.com/alicexixi85/-.git
 cd -/美团数字人视频
 ```
 
